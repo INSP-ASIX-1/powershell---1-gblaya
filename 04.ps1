@@ -1,1 +1,2 @@
-#Crea el fitxer test.txt des de PowerShell
+#Crea el fitxer test.txt des de PowerShel
+ni test.txt
